@@ -1,4 +1,3 @@
-![Web Developer](https://scontent.fjed6-1.fna.fbcdn.net/v/t1.6435-9/29249170_267033863835066_7083314095251783680_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=O00OgNm3jYwAX_-sj7n&tn=RomOWeSOjvzdg4nC&_nc_ht=scontent.fjed6-1.fna&oh=be495b8073fbf9d66d0c74a55654a1bd&oe=61AA32DE)
 
 ### Hi there 👋, I'm Abu Sayeed
 #### Web Developer
